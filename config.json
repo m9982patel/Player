@@ -1,0 +1,9 @@
+{
+	"ip":"HolaHypixel.aternos.me",
+	"port": 542285,
+	"name": "Lallu",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register shazam124 shazam124",
+	"login-cmd":"/login shazam124"
+}
